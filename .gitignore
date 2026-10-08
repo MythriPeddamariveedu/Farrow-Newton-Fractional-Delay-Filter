@@ -1,14 +1,4 @@
 # Vivado generated files
-.cache/
-.hw/
-.sim/
-.xsim/
-.gen/
-.runs/
-.ip_user_files/
-.Xil/
-
-# Vivado logs and temporary files
 *.jou
 *.log
 *.str
@@ -16,6 +6,15 @@
 *.pb
 *.backup
 *.tmp
+
+FEN.cache/
+FEN.hw/
+FEN.ip_user_files/
+FEN.sim/
+FEN.runs/
+FEN.gen/
+.xsim/
+.Xil/
 
 # OS files
 Thumbs.db
